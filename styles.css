@@ -201,7 +201,7 @@ html {
 .slideshow-work-link {
     font-size: var(--MF);
     position: absolute;
-    bottom: 2.5rem;
+    bottom: var(--header-height);
     background-color: var(--bg-color);
     right: calc(var(--padding) + 0.5rem);
     z-index: 100;
